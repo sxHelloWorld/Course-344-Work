@@ -14,3 +14,6 @@ Each news will have checkbox for favorite to save it for later.
 Click favorite checkbox to show only favorites (along with the news filter)
 
 Logout to sign out. The website will save all your favorite news.
+
+
+Link to public HTML: http://www.se.rit.edu/~sxm9899/blah/index.php
